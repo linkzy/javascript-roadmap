@@ -5,7 +5,7 @@ Welcome to the JavaScript Study repository! This repository is dedicated to my J
 ## Basic Concepts 
 1. **Variables:** ([Blog Post](https://linkzy.dev/understanding-variables-in-javascript/)) Understand the basics of variables in JavaScript and how to declare and use them. 
 
-2. **Data Types:** Explore different data types in JavaScript, including numbers, strings, arrays, and objects.
+2. **Data Types:** ([Blog Post](https://linkzy.dev/understanding-javascript-data-structures/)) Explore different data types in JavaScript, including numbers, strings, arrays, and objects.
 
 3. **Operators:** Learn about various types of operators in JavaScript.
 
