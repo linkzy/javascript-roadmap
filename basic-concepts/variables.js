@@ -1,3 +1,6 @@
+//Code for the post:
+//https://linkzy.dev/understanding-variables-in-javascript/
+
 function convertToCelsiusToFahrenheit(temperatureInCelsius) {
     // Constant multiplier for converting Celsius to Fahrenheit
     const multiplier = 9 / 5;
