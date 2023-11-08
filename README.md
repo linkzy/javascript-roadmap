@@ -1,6 +1,6 @@
 # JavaScript Study
 
-Welcome to the JavaScript Study repository! This repository is dedicated to my JavaScript learning journey. I've structured my learning process by breaking it down into various topics, each of which has its own code examples and corresponding blog posts. Below is a list of topics I will be covering:
+Welcome to the JavaScript Study repository! This repository is dedicated to my JavaScript learning journey. I've structured my learning process by breaking it down into various topics, each of which has its own code examples and corresponding [Blog](https://linkzy.dev/) posts. Below is a list of topics I will be covering:
 
 ## Basic Concepts 
 1. **Variables:** ([Blog Post](https://linkzy.dev/understanding-variables-in-javascript/)) Understand the basics of variables in JavaScript and how to declare and use them. 
