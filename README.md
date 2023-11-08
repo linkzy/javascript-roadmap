@@ -10,7 +10,7 @@ Welcome to the JavaScript Study repository! This repository is dedicated to my J
 
 3. **Operators:** ([Blog Post](https://linkzy.dev/a-comprehensive-guide-to-javascript-operators/)) Learn about various types of operators in JavaScript.
 
-4. **Type Conversion:** Understand how to convert between different variable types.
+4. **Type Conversion:** ([Blog Post](https://linkzy.dev/demystifying-type-conversion-in-javascript/)) Understand how to convert between different variable types.
 
 ## Control Structures
 
