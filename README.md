@@ -14,9 +14,9 @@ Welcome to the JavaScript Study repository! This repository is dedicated to my J
 
 ## Control Structures
 
-5. **Conditional Statements:**([Blog Post](https://linkzy.dev/conditional-structures-in-javascript/)) Learn how to use `if`, `else if`, and `else` statements for decision-making in your code.
+5. **Conditional Statements:** ([Blog Post](https://linkzy.dev/conditional-structures-in-javascript/)) Learn how to use `if`, `else if`, and `else` statements for decision-making in your code.
 
-6. **Iterators:** Explore JavaScript iterators for looping through data.
+6. **Iterators:** ([Blog Post](https://linkzy.dev/iterators-in-javascript/)) Explore JavaScript iterators for looping through data.
 
 7. **Loops:** Understand the use of `for` and `while` loops to iterate through data and perform repetitive tasks.
 
