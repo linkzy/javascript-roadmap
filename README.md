@@ -18,7 +18,7 @@ Welcome to the JavaScript Study repository! This repository is dedicated to my J
 
 6. **Iterators:** ([Blog Post](https://linkzy.dev/iterators-in-javascript/)) Explore JavaScript iterators for looping through data.
 
-7. **Loops:** Understand the use of `for` and `while` loops to iterate through data and perform repetitive tasks.
+7. **Loops:** ([Blog Post](https://linkzy.dev/loops-in-javascript/)) Understand the use of `for` and `while` loops to iterate through data and perform repetitive tasks.
 
 ## Functions
 
