@@ -22,9 +22,9 @@ Welcome to the JavaScript Study repository! This repository is dedicated to my J
 
 ## Functions
 
-8. **Function Declaration and Expressions:** ([Blog Post] (https://linkzy.dev/demystifying-javascript-functions/)) Learn the different ways to declare and use functions in JavaScript.
+8. **Function Declaration and Expressions:** ([Blog Post](https://linkzy.dev/demystifying-javascript-functions/)) Learn the different ways to declare and use functions in JavaScript.
 
-9. **Arrow Functions:** ([Blog Post] (https://linkzy.dev/arrow-functions-the-concise-syntax/)) Explore the concise syntax of arrow functions for defining functions.
+9. **Arrow Functions:** ([Blog Post](https://linkzy.dev/arrow-functions-the-concise-syntax/)) Explore the concise syntax of arrow functions for defining functions.
 
 10. **Scope and Closures:** Understand the concept of scope and closures in JavaScript.
 
