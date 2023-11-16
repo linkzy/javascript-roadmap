@@ -26,7 +26,7 @@ Welcome to the JavaScript Study repository! This repository is dedicated to my J
 
 9. **Arrow Functions:** ([Blog Post](https://linkzy.dev/arrow-functions-the-concise-syntax/)) Explore the concise syntax of arrow functions for defining functions.
 
-10. **Scope and Closures:** Understand the concept of scope and closures in JavaScript.
+10. **Scope and Closures:** ([Blog Post](https://linkzy.dev/scope-and-closures-unveiling-javascripts-execution-context/)) Understand the concept of scope and closures in JavaScript.
 
 11. **Higher-Order Functions:** Learn how to work with higher-order functions that accept or return functions.
 
