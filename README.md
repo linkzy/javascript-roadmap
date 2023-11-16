@@ -28,7 +28,7 @@ Welcome to the JavaScript Study repository! This repository is dedicated to my J
 
 10. **Scope and Closures:** ([Blog Post](https://linkzy.dev/scope-and-closures-unveiling-javascripts-execution-context/)) Understand the concept of scope and closures in JavaScript.
 
-11. **Higher-Order Functions:** Learn how to work with higher-order functions that accept or return functions.
+11. **Higher-Order Functions:** ([Blog Post](https://linkzy.dev/higher-order-functions-embracing-the-power-of-functions/)) Learn how to work with higher-order functions that accept or return functions.
 
 ## Objects and object-oriented programming (OOP)
 
