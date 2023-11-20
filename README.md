@@ -32,7 +32,7 @@ Welcome to the JavaScript Study repository! This repository is dedicated to my J
 
 ## Objects and object-oriented programming (OOP)
 
-12. **Objects:** Understand object-oriented programming (OOP) in JavaScript and how to work with objects.
+12. **Objects:** ([Blog Post](https://linkzy.dev/objects-in-javascript-unveiling-the-power-of-oop/)) Understand object-oriented programming (OOP) in JavaScript and how to work with objects.
 
 13. **Prototypes:** Explore JavaScript's prototype-based inheritance.
 
