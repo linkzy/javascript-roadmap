@@ -34,9 +34,9 @@ Welcome to the JavaScript Study repository! This repository is dedicated to my J
 
 12. **Objects:** ([Blog Post](https://linkzy.dev/objects-in-javascript-unveiling-the-power-of-oop/)) Understand object-oriented programming (OOP) in JavaScript and how to work with objects.
 
-13. **Prototypes:** Explore JavaScript's prototype-based inheritance.
+13. **Prototypes:** ([Blog Post](https://linkzy.dev/prototypes-in-javascript-embracing-inheritance/)) Explore JavaScript's prototype-based inheritance.
 
-14. **ES6 Classes:** Learn about classes in ES6 and how they relate to OOP.
+14. **ES6 Classes:** ([Blog Post](https://linkzy.dev/es6-classes-the-modern-face-of-javascript-oop/)) Learn about classes in ES6 and how they relate to OOP.
 
 15. **Object Methods:** Understand and create methods within objects.
 
