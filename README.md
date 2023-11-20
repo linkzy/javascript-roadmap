@@ -38,7 +38,7 @@ Welcome to the JavaScript Study repository! This repository is dedicated to my J
 
 14. **ES6 Classes:** ([Blog Post](https://linkzy.dev/es6-classes-the-modern-face-of-javascript-oop/)) Learn about classes in ES6 and how they relate to OOP.
 
-15. **Object Methods:** Understand and create methods within objects.
+15. **Object Methods:** ([Blog Post](https://linkzy.dev/object-methods-in-javascript-unleashing-the-power-of-functions-within-objects/)) Understand and create methods within objects.
 
 ## Arrays and Data Structures
 
