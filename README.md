@@ -44,7 +44,7 @@ Welcome to the JavaScript Study repository! This repository is dedicated to my J
 
 16. **Arrays:** ([Blog Post](https://linkzy.dev/arrays-in-javascript-unveiling-the-power-of-ordered-collections/)) Discover arrays, a powerful data structure in JavaScript, and their methods for manipulation.
 
-17. **Array Methods:** Explore built-in array methods for common operations.
+17. **Array Methods:** ([Blog Post](https://linkzy.dev/array-methods-in-javascript-built-in-functions/)) Explore built-in array methods for common operations.
 
 18. **Sets and Maps:** Learn about sets and maps as alternative data structures.
 
