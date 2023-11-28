@@ -14,7 +14,7 @@ console.log(`Element at index ${index}: ${number}`);
 // Element at index 4: 5
 
 // map: Transform Array Elements
-const squares = numbers.map(number => number \* number);
+const squares = numbers.map(number => number * number);
 console.log(squares); // Output: [1, 4, 9, 16, 25]
 
 // filter: Create a New Array with Filtered Elements
