@@ -50,7 +50,7 @@ Welcome to the JavaScript Study repository! This repository is dedicated to my J
 
 ## Error Handling
 
-19. **Try...Catch:** Learn how to handle exceptions and errors using try...catch blocks.
+19. **Try...Catch:** ([Blog Post](https://linkzy.dev/error-handling-in-javascript-trycatch/)) Learn how to handle exceptions and errors using try...catch blocks.
 
 ## Asynchronous JavaScript
 
