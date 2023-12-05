@@ -54,7 +54,7 @@ Welcome to the JavaScript Study repository! This repository is dedicated to my J
 
 ## Asynchronous JavaScript
 
-20. **Callbacks:** Understand the concept of callbacks in asynchronous JavaScript.
+20. **Callbacks:** ([Blog Post](https://linkzy.dev/javascript-callbacks-understanding-asynchronous-programming/)) Understand the concept of callbacks in asynchronous JavaScript.
 
 21. **Promises:** Learn about Promises for managing asynchronous operations.
 
