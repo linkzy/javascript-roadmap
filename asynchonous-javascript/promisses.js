@@ -5,7 +5,7 @@
 // Basic Syntax
 const myPromise = new Promise((resolve, reject) => {
     // Asynchronous operation
-    if (/* operation is successful */) {
+    if (/* operation is successful */true) {
       resolve(result); // Fulfill the promise with a value
     } else {
       reject(error); // Reject the promise with a reason (error)

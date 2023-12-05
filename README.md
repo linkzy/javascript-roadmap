@@ -58,7 +58,7 @@ Welcome to the JavaScript Study repository! This repository is dedicated to my J
 
 21. **Promises:** ([Blog Post](https://linkzy.dev/javascript-promises-managing-asynchronous-operations/)) Learn about Promises for managing asynchronous operations.
 
-22. **Async/Await:** Explore the async/await syntax for handling asynchronous code.
+22. **Async/Await:** ([Blog Post](https://linkzy.dev/async-await-simplifying-asynchronous-javascript/)) Explore the async/await syntax for handling asynchronous code.
 
 ## DOM Manipulation
 
