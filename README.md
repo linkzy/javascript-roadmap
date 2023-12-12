@@ -66,7 +66,7 @@ Welcome to the JavaScript Study repository! This repository is dedicated to my J
 
 ## Modern JavaScript
 
-24. **ES6+ Features:** Explore modern JavaScript features introduced in ECMAScript 2015 and later.
+24. **ES6+ Features:** ([Blog Post](https://linkzy.dev/exploring-modern-javascript-es6-features/)) Explore modern JavaScript features introduced in ECMAScript 2015 and later.
 
 ## Tooling
 
