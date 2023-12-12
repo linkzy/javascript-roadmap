@@ -62,7 +62,7 @@ Welcome to the JavaScript Study repository! This repository is dedicated to my J
 
 ## DOM Manipulation
 
-23. **DOM Manipulation:** Learn how to manipulate the Document Object Model (DOM) in the browser.
+23. **DOM Manipulation:** ([Blog Post](https://linkzy.dev/dom-manipulation-in-javascript/)) Learn how to manipulate the Document Object Model (DOM) in the browser.
 
 ## Modern JavaScript
 
