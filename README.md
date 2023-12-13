@@ -72,7 +72,7 @@ Welcome to the JavaScript Study repository! This repository is dedicated to my J
 
 25. **Package Managers:** ([Blog Post](https://linkzy.dev/javascript-dependency-management-npm-and-yarn/)) Understand the use of package managers like npm or yarn.
 
-26. **Bundlers:** Learn about bundling tools like Webpack for optimizing your code.
+26. **Bundlers:** ([Blog Post](https://linkzy.dev/webpack-javascript-bundlers/)) Learn about bundling tools like Webpack for optimizing your code.
 
 27. **Transpilers:** Explore transpilers like Babel for writing future JavaScript in today's environments.
 
