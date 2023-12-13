@@ -70,7 +70,7 @@ Welcome to the JavaScript Study repository! This repository is dedicated to my J
 
 ## Tooling
 
-25. **Package Managers:** Understand the use of package managers like npm or yarn.
+25. **Package Managers:** ([Blog Post](https://linkzy.dev/javascript-dependency-management-npm-and-yarn/)) Understand the use of package managers like npm or yarn.
 
 26. **Bundlers:** Learn about bundling tools like Webpack for optimizing your code.
 
