@@ -74,18 +74,18 @@ Welcome to the JavaScript Study repository! This repository is dedicated to my J
 
 26. **Bundlers:** ([Blog Post](https://linkzy.dev/webpack-javascript-bundlers/)) Learn about bundling tools like Webpack for optimizing your code.
 
-27. **Transpilers:** Explore transpilers like Babel for writing future JavaScript in today's environments.
+27. **Transpilers:** ([Blog Post](https://linkzy.dev/transpilers-in-javascript-babel/)) Explore transpilers like Babel for writing future JavaScript in today's environments.
 
 ## Testing
 
-28. **Jest:** Learn about Jest, a popular JavaScript testing framework.
+28. **Jest:** ([Blog Post](https://linkzy.dev/jest-elevating-javascript-testing-to-the-next-level/)) Learn about Jest, a popular JavaScript testing framework.
 
-29. **Mocha:** Explore Mocha, another widely used JavaScript testing framework.
+29. **Mocha:** ([Blog Post](https://linkzy.dev/mocha-testing-javascript-with-elegance-and-flexibility/)) Explore Mocha, another widely used JavaScript testing framework.
 
 ## Code Quality and Style
 
-30. **ESLint:** Understand how ESLint can help enforce code quality and style rules.
+30. **ESLint:** ([Blog Post](https://linkzy.dev/eslint-elevating-code-quality-and-style-in-javascript/)) Understand how ESLint can help enforce code quality and style rules.
 
-31. **Prettier:** Learn about Prettier, a code formatter to maintain code consistency.
+31. **Prettier:** ([Blog Post](https://linkzy.dev/prettier-achieving-code-consistency-with-ease/)) Learn about Prettier, a code formatter to maintain code consistency.
 
 Feel free to explore the code examples and accompanying blog posts for each topic to enhance your understanding of JavaScript. Happy learning!
